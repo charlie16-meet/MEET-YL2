@@ -1,0 +1,6 @@
+body {
+	background-image: url("charlie.jpeg");
+background-repeat: no-repeat;
+backgroubd-size:3000px 1800px
+}
+
